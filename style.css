@@ -1,0 +1,24 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+.white {
+    background-color: white;
+
+}
+
+.black {
+    background-color: black;
+
+}
+
+table {
+    border: solid black 2px;
+}
